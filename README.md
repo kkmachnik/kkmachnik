@@ -4,7 +4,7 @@ Hi 👋, I'm Karolina
 ### Passionate Front-End Developer dedicated to crafting user-friendly products and learning new skills.
 Based in Kraków, Poland
 
-- 🔭 I’m currently working on **jamming project on Codeacademy Front-End Engineer career path**
+
 - 🌱 I’m currently learning **React**
 - 📫 How to reach me **machnik.karolina98@gmail.com**
 
