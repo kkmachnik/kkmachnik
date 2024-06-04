@@ -5,7 +5,7 @@ Hi 👋, I'm Karolina
 Based in Kraków, Poland
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently **creating project and implementing gained knowledge into user-friendly solutions**
 - 📫 How to reach me **machnik.karolina98@gmail.com**
 
 ### Connect with me:
